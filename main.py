@@ -1,3 +1,14 @@
+"""
+Lab Task:
+1) Implement the gradient descent function to optimize theta 
+2) Implement calculate error function to see how the error of the hypothesis function 
+changes with every iteration of gradient descent (hint: you will need to calculate and 
+error in every iteration)
+3) You the optimized hypothesis function to make predictions on new data
+4) Try different values of alpha, learning rate and see how this changes the accuracy of the 
+model
+"""
+
 import pandas
 import matplotlib.pyplot as plt
 from pandas.plotting import scatter_matrix
